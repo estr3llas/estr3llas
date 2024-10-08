@@ -1,4 +1,4 @@
-Software Development, x86, UEFI, Reverse Engineering, Compilers, OS Internals.
+Software Development, x86, UEFI, Reverse Engineering, Obfuscation, Virtualization, Compilers, OS Internals.
 
 ## technologies
 
